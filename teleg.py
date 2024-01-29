@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('5244110939:AAEA2U0RT8b3ybfaCS8vE_OMByfrbtxT4ik')
+bot = telebot.TeleBot('5244110939:Token')
 
 #comands
 
